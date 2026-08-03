@@ -1,6 +1,6 @@
 ## Hello World! I'm Rafi Fauzan
 
-![Fii2X05]([img/github-header-banner.png])
+![Fii2X05](img/github-header-banner.png)
 
 
 
