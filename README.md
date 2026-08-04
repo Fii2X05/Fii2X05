@@ -1,8 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Rafi Fauzan
-
-<img src="img/github-header-banner.png" width="100%" />
+<img src="img/github-header-banner-update.png" width="100%" />
 
 <br>
 
