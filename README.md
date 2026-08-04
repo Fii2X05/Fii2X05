@@ -72,14 +72,6 @@ public:
 
 # 📊 GitHub Analytics
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=fii2x05&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fii2x05&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
 <br>
 
 <div align="center">
@@ -115,15 +107,15 @@ public:
 <p align="center">
 
 <a href="https://linkedin.com/in/rafi-zeta-fauzan-355621329">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 <a href="https://instagram.com/rafizfxt">
-<img src="https://skillicons.dev/icons?i=instagram"/>
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
 <a href="https://facebook.com/share/1HKVoQJ9UJ/">
-<img src="https://cdn.simpleicons.org/facebook"/>
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
 </a>
 
 </p>
