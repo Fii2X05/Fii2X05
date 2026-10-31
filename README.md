@@ -46,7 +46,7 @@ public:
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,php,java,flutter,react,nodejs,tailwind,mysql,postgresql,figma,git,vscode"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,php,java,react,nodejs,tailwind,mysql,postgresql,vscode"/>
 
 </p>
 
